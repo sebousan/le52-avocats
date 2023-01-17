@@ -1,0 +1,26 @@
+{
+  "name": "lawyerify-hugo-template",
+  "version": "1.0.1",
+  "repository": "https://github.com/sebousan/lawyerify-hugo-template",
+  "author": {
+    "name": "Lawyerify",
+    "url": "https://www.lawyerify.fr/"
+  },
+  "dependencies": {
+    "lawyerify-hugo-theme": "./themes/lawyerify-hugo-theme"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.13",
+    "cssnano": "^5.1.14",
+    "postcss": "^8.4.19",
+    "postcss-cli": "^10.0.0",
+    "postcss-sass": "^0.5.0"
+  },
+  "scripts": {
+    "watch": "hugo server",
+    "build": "hugo --minify",
+    "update": "git pull --recurse-submodules --depth 1 && git submodule update --remote",
+    "cms": "npx netlify-cms-proxy-server"
+  }
+}

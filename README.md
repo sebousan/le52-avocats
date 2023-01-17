@@ -17,7 +17,7 @@ https://github.com/noesya/osuny-hugo-theme
 
 Pour cloner avec le thème
 ```
-git clone git@github.com:sebousan/lawyerify-hugo-template.git --recurse-submodules
+git clone git@github.com:sebousan/le-52-lawyerify.git --recurse-submodules
 ```
 Pour récupérer le thème
 ```

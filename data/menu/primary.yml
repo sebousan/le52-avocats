@@ -1,14 +1,9 @@
 links:
-  - title: Les cabinets
-    url: /cabinets
+  - title: Le cabinet
+    url: /le-cabinet
   - title: L’équipe
     url: /equipe
-  - blank: false
-    title: Expertises
-    url: /expertises
   - title: Actualités
     url: /actualites
-  - title: Parutions
-    url: /parutions
   - title: Contact
     url: /contact

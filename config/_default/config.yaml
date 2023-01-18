@@ -13,7 +13,7 @@ imaging:
 markup:
   tableOfContents:
     ordered: true
-paginate: 18
+paginate: 24
 removePathAccents: true
 
 ## STATIC

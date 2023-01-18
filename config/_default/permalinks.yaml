@@ -1,13 +1,5 @@
-posts:          /actualites/:year-:month-:day-:slug/
-categories:     /actualites/:slug/
-tags:           /actualites/tags/:slug/
-authors:        /actualites/:slug/
-
 persons:        /equipe/:slug/
-statutes:        /equipe/:slug/
+statutes:       /equipe/:slug/
 
-expertises:     /expertises/:slug/
-offices:        /cabinets/:slug/
-
-publications:   /parutions/:year-:month-:day-:slug/
-concerned:      /parutions/:slug/
+publications:   /actualites/:year-:month-:day-:slug/
+concerned:      /actualites/:slug/

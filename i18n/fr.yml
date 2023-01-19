@@ -1,0 +1,14 @@
+publications:
+  all: Toutes l’actualités du cabinet
+  latest: Dernières actualités
+  latest_person: Dernières actualités de {{ .Person }}
+  list: Liste des actualités de la personne concernée
+  list_person: Liste des actualités de {{ .Person }}
+  more: Découvrir plus d’actualités
+  more_person: Découvrir plus d’actualités de {{ .Person }}
+  press: 
+    more: Découvrir l’article complet
+  title:
+    one: Actualité
+    other: Actualités
+  title_person: Actualités de {{ .Person }}

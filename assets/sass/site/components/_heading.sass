@@ -1,4 +1,5 @@
 .heading
+    margin-bottom: 0
     @include media-breakpoint-down(md)
         align-items: center
     .surtitle
@@ -8,7 +9,7 @@
         margin: auto
         text-align: center
         &::after  
-            background-color: #ccc
+            background-color: $border-color
             content: ""
             display: block
             height: 1px

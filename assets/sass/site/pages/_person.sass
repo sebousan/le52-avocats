@@ -1,11 +1,21 @@
 .page-persons
     
-    .latest
-        @include rfs($global-spacing, margin-top)
-        > div
-            margin-bottom: 0
-    
     @include media-breakpoint-up(md)
+        .grid
+            >
+                .featured-image
+                    grid-column: 1/6
+                .content
+                    grid-column: 6/13
+                    grid-row: 2/4
+                .sidebar
+                    grid-column: 1/6
+                    grid-row: 3
+                    margin-bottom: 0
+                .latest
+                    grid-column: 1/13
+
+    @include media-breakpoint-up(lg)
         .grid
             >
                 .featured-image
@@ -15,9 +25,6 @@
                 .sidebar
                     grid-column: 2/6
                     grid-row: 3
-                    margin-bottom: 0
-                .latest
-                    grid-column: 1/13
                     
     @include media-breakpoint-down(md)
         .grid
@@ -25,7 +32,10 @@
                 .heading
                     order: 1
                 .featured-image
+                    --bs-aspect-ratio: 150%
+                    border-radius: 0
                     order: 2
+                    width: 100%
                 .content
                     order: 4
                 .sidebar

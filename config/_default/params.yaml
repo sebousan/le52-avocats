@@ -5,3 +5,7 @@ persons:
     _merge: deep
     desktop: "306x459"
     mobile: "153x230"
+  image:
+    _merge: deep
+    desktop: "416x624"
+    mobile: "330x495"

@@ -28,6 +28,16 @@ blocks:
       Forts de leur connaissance aiguë de la pratique judiciaire, les avocats du cabinet mettent au service de leurs clients leur expertise commune, et leur assurent une disponibilité totale ainsi qu’une grande réactivité dans le suivi de leurs dossiers.
     image:
       src: /images/uploads/cabinet-illustration.jpg
+  - type: selected-persons
+    section: persons
+    show_more: false
+    background: false
+    items:
+      - joseph-hazan
+      - morgane-le-hir
+      - margot-pugliese
+      - sophie-rey-gascon
+    title: Les associés
   - type: latest
     section: publications
     title: Actualités

@@ -1,0 +1,6 @@
+{{ range .Pages.GroupByParam "statutes" }}
+  {{ with site.GetPage (printf "/statutes/%s" .Key) }}
+  <h2>{{ .Title }}</h2>
+  {{ end }}
+  {{ partial "persons/items" .Pages }}
+{{ end }}

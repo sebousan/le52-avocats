@@ -1,0 +1,12 @@
+{{ $desktop := site.Params.persons.thumbnail.desktop | default false }}
+{{ $mobile := site.Params.persons.thumbnail.mobile | default false }}
+<div class="media">
+  {{- with .Params.image}}
+    {{ partial "commons/image.html" (dict
+      "src" .src
+      "alt" .alt
+      "desktop" $desktop
+      "mobile" $mobile
+    ) }}
+  {{ end -}}
+</div>

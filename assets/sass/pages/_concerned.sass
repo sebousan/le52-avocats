@@ -1,0 +1,18 @@
+.term-concerned
+    .heading
+        margin-bottom: calc(#{$global-spacing} * 2)
+        position: relative
+        h1
+            margin: 0
+            text-align: left
+            &::after
+                content: none
+        &::after  
+            background-color: #ccc
+            bottom: - $global-spacing
+            content: ""
+            height: 1px
+            left: 50%
+            position: absolute
+            transform: translateX(-50%)
+            width: 200px

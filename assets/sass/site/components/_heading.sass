@@ -1,0 +1,16 @@
+.heading
+    @include media-breakpoint-down(md)
+        align-items: center
+    .surtitle
+        margin-bottom: 0
+        text-align: center
+    h1
+        margin: auto
+        text-align: center
+        &::after  
+            background-color: #ccc
+            content: ""
+            display: block
+            height: 1px
+            margin: $global-spacing auto
+            width: 200px

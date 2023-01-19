@@ -13,6 +13,7 @@ export const availableBlocks = [
     'gallery',
     'images',
     'paragraph',
+    'selectedpersons',
     'selectedpublications',
     'title'
 ];

@@ -1,0 +1,13 @@
+.home-page
+    main
+        section:not(:last-child)
+            position: relative
+            &::after  
+                background-color: #ccc
+                bottom: 0
+                content: ""
+                left: 50%
+                height: 1px
+                position: absolute
+                transform: translateX(-50%)
+                width: 200px

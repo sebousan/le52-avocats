@@ -1,25 +1,14 @@
-# lawyerify-hugo-template
+# Le 52
 
-## hugo
+## Submodules
+https://github.com/sebousan/lawyerify-hugo-theme
+https://github.com/sebousan/lawyerify-hugo-netlify-cms
 
-Pour installer Hugo
+Pour cloner avec le thème et l'admin
 ```
-brew install hugo
+git clone git@github.com:sebousan/le52-avocats.git --recurse-submodules
 ```
-Mise à jour avec
-```
-brew upgrade hugo
-```
-
-
-## Theme
-https://github.com/noesya/osuny-hugo-theme
-
-Pour cloner avec le thème
-```
-git clone git@github.com:sebousan/le-52-lawyerify.git --recurse-submodules
-```
-Pour récupérer le thème
+Pour récupérer les submodules
 ```
 git pull --recurse-submodules
 ```
@@ -29,5 +18,5 @@ git pull --recurse-submodules
 Pour lancer le site
 ```
 yarn
-hugo server
+yarn watch
 ```

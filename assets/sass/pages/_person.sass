@@ -1,0 +1,34 @@
+.page-persons
+    
+    .latest
+        @include rfs($global-spacing, margin-top)
+        > div
+            margin-bottom: 0
+    
+    @include media-breakpoint-up(md)
+        .grid
+            >
+                .featured-image
+                    grid-column: 2/6
+                .content
+                    grid-column: 6/12
+                .sidebar
+                    grid-column: 2/6
+                    grid-row: 3
+                    margin-bottom: 0
+                .latest
+                    grid-column: 1/13
+                    
+    @include media-breakpoint-down(md)
+        .grid
+            >
+                .heading
+                    order: 1
+                .featured-image
+                    order: 2
+                .content
+                    order: 4
+                .sidebar
+                    order: 3
+                .latest
+                    order: 5

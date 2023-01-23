@@ -48,5 +48,9 @@ blocks:
     zoom: 13
     background: false
     title: Contact
-    text: "52 rue de Richelieu 75001 Paris  Tel : +33 (0) 1 53 32 50 76"
+    text: |-
+      52 rue de Richelieu
+      75001 Paris
+
+      Tel : +33 (0) 1 53 32 50 76
 ---

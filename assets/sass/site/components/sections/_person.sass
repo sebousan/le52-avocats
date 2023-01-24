@@ -5,3 +5,29 @@
         --bs-aspect-ratio: 150%
         background-color: transparent
         border-radius: 0
+    .cta
+        --bs-btn-padding-x: 0
+        @extend .btn-link
+        font-size: $small-font-size
+        font-weight: $font-weight-bold
+
+    main .persons-large &
+        display: grid
+        grid-template-columns: 1fr
+        width: 100%
+        @include media-breakpoint-up(md)
+            grid-column-gap: $grid-gutter-width
+            grid-template-columns: repeat(8, 1fr)
+            > *
+                grid-row: 1
+            > .media
+                grid-column: 1/4
+            > .content
+                grid-column: 4/9
+
+    .persons-large > div:nth-child(odd) &
+        @include media-breakpoint-up(md)
+            > .content
+                grid-column: 1/6
+            > .media
+                grid-column: 6/9

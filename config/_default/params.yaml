@@ -3,6 +3,7 @@ persons:
   _merge: deep
   thumbnail:
     _merge: deep
+    large: "330x495"
     desktop: "306x459"
     mobile: "153x230"
   image:

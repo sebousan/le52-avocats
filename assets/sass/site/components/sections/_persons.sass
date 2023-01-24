@@ -1,2 +1,17 @@
 .persons
     @extend .row-cols-2
+    &-large
+        display: block
+        margin: 0
+        > *
+            display: grid
+            grid-template-columns: 1fr
+            padding-left: 0
+            padding-right: 0
+            width: 100%
+            @include media-breakpoint-up(md)
+                grid-column-gap: $grid-gutter-width
+                grid-template-columns: repeat(12, 1fr)
+            > article
+                grid-column: 3/11
+

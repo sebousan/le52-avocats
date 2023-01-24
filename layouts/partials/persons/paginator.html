@@ -1,6 +1,16 @@
 {{ range .Pages.GroupByParam "statutes" }}
-  {{ with site.GetPage (printf "/statutes/%s" .Key) }}
-  <h2>{{ .Title }}</h2>
-  {{ end }}
-  {{ partial "persons/items" .Pages }}
+  <section>
+    {{ with site.GetPage (printf "/statutes/%s" .Key) }}
+      <header class="heading">
+        <h2>{{ .Title }}</h2>
+      </header>
+    {{ end }}
+    <div class="persons persons-large">
+      {{ range .Pages }}
+        <div>
+          {{ partial "persons/item-large.html" . }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
 {{ end }}

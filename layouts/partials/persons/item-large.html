@@ -1,0 +1,21 @@
+<article class="person" itemscope itemtype="https://schema.org/Person">
+  <a href="{{ .Permalink }}" itemprop="url" class="content">
+    {{ partial "commons/item/title" . }}
+    {{ with .Content }}
+      <p class="description" itemprop="abstract">{{ partial "LineBreak" (partial "TruncateContent" (dict "content"  . "limit" 400)) }}</p>
+    {{ end }}
+    {{ partialCached "commons/item/more" . }}
+  </a>
+  {{ $desktop := site.Params.persons.thumbnail.large | default false }}
+  {{ $mobile := site.Params.persons.thumbnail.mobile | default false }}
+  <div class="media">
+    {{- with .Params.image}}
+      {{ partial "commons/image.html" (dict
+        "src" .src
+        "alt" .alt
+        "desktop" $desktop
+        "mobile" $mobile
+      ) }}
+    {{ end -}}
+  </div>
+</article>

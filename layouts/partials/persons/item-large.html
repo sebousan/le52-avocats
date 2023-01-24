@@ -6,8 +6,8 @@
     {{ end }}
     {{ partialCached "commons/item/more" . }}
   </a>
-  {{ $desktop := site.Params.persons.thumbnail.large | default false }}
-  {{ $mobile := site.Params.persons.thumbnail.mobile | default false }}
+  {{ $desktop := site.Params.persons.large.desktop | default false }}
+  {{ $mobile := site.Params.persons.large.mobile | default false }}
   <div class="media">
     {{- with .Params.image}}
       {{ partial "commons/image.html" (dict

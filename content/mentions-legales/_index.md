@@ -6,14 +6,14 @@ description: Page des mentions légales
 ---
 ## Éditeur
 
-Le présent Site Web, accessible à l’adresse www.52richelieu-avocats.fr est édité par
+Le présent Site Web, accessible à l’adresse www.le52-avocats.com est édité par
 
 52 RICHELIEU\
 Siège social : 52, rue de Richelieu – 75001 PARIS\
 Téléphone : + 33 (0)1 53 32 50 76\
 Forme juridique : Cabinet groupé\
 Dirigeants : Joseph HAZAN, Morgane LE HIR, Margot PUGLIESE, Sophie REY GASCON\
-Adresse électronique : [contact@52richelieu.com](mailto:contact@52richelieu.com)
+Adresse électronique : [contact@le52-avocats.com](mailto:contact@le52-avocats.com)
 
 52 RICHELIEU est en cabinet de droit pénal dont tous les avocats sont inscrits au Barreau de Paris, et sont ainsi rattachés à l’Ordre du Barreau de Paris (France).
 
@@ -25,10 +25,9 @@ Le directeur de la publication du Site Web est Madame Sophie REY GASCON.
 
 Le contenu du Site, la structure générale, les textes, les images, animées ou non, et les sons dont le Site est composé sont la propriété exclusive de 52 RICHELIEU. Toute représentation totale ou partielle de ce Site et de son Contenu, par quelques procédés que ce soient, sans l’autorisation préalable expresse de 52 RICHELIEU, est interdite et constituerait une contrefaçon sanctionnée par les articles L.335-2 et suivants du Code de la Propriété intellectuelle.
 
-Le site accessible à l’adresse [www.52richelieu-avocats.com](https://www.52richelieu-avocats.com/) est hébergé par la société OVH\
-Siège social : 2 rue Kellermann – 59100 Roubaix – France\
-Téléphone :\
-N° SIRET : 42476141900045
+Le site accessible à l’adresse [www.le52-avocats.com](https://www.le52-avocats.com) est hébergé par la société Netlify\
+Siège social : 2325 3rd Street, Suite 296, San Francisco, California 94107, United States\
+URL : https://www.netlify.com\
 
 ## Médiation
 

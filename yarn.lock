@@ -137,9 +137,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001426, caniuse-lite@^1.0.30001449:
-  version "1.0.30001449"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001449.tgz#a8d11f6a814c75c9ce9d851dc53eb1d1dfbcd657"
-  integrity sha512-CPB+UL9XMT/Av+pJxCKGhdx+yg1hzplvFJQlJ2n68PyQGMz9L/E2zCyLdOL8uasbouTUgnPl+y0tccI/se+BEw==
+  version "1.0.30001450"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001450.tgz#022225b91200589196b814b51b1bbe45144cf74f"
+  integrity sha512-qMBmvmQmFXaSxexkjjfMvD5rnDL0+m+dUMZKoDYsGG8iZN29RuYh9eRoMvKsT6uMAWlyUUGDEQGJJYjzCIO9ew==
 
 chokidar@^3.3.0:
   version "3.5.3"
@@ -444,6 +444,14 @@ graceful-fs@^4.1.6, graceful-fs@^4.2.0:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.10.tgz#147d3a006da4ca3ce14728c7aefc287c367d7a6c"
   integrity sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==
 
+hugolify-theme@./themes/hugolify-theme:
+  version "1.1.0"
+  dependencies:
+    "@midzer/tobii" "^2.5.0"
+    "@popperjs/core" "^2.11.2"
+    bootstrap "^5.2.3"
+    bootstrap-icons "^1.10.3"
+
 ignore@^5.2.0:
   version "5.2.4"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.2.4.tgz#a291c0c6178ff1b960befe47fcdec301674a6324"
@@ -500,13 +508,8 @@ jsonfile@^6.0.1:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
-lawyerify-hugo-theme@./themes/lawyerify-hugo-theme:
-  version "1.0.0"
-  dependencies:
-    "@midzer/tobii" "^2.5.0"
-    "@popperjs/core" "^2.11.2"
-    bootstrap "^5.2.3"
-    bootstrap-icons "^1.10.3"
+lawyerify-hugolify-theme@./themes/lawyerify-hugolify-theme:
+  version "1.1.0"
 
 lilconfig@^2.0.3, lilconfig@^2.0.5:
   version "2.0.6"

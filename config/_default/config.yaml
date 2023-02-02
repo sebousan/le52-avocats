@@ -1,4 +1,6 @@
-theme: lawyerify-hugo-theme
+theme: 
+  - lawyerify-hugolify-theme
+  - hugolify-theme
 
 ## LANGUAGE
 defaultContentLanguage: fr

@@ -7,7 +7,8 @@
     "url": "https://www.lawyerify.fr/"
   },
   "dependencies": {
-    "lawyerify-hugo-theme": "./themes/lawyerify-hugo-theme"
+    "hugolify-theme": "./themes/hugolify-theme",
+    "lawyerify-hugolify-theme": "./themes/lawyerify-hugolify-theme"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",

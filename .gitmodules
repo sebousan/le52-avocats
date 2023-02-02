@@ -1,6 +1,9 @@
-[submodule "themes/lawyerify-hugo-theme"]
-	path = themes/lawyerify-hugo-theme
-	url = https://github.com/sebousan/lawyerify-hugo-theme
 [submodule "static1/admin"]
 	path = static1/admin
 	url = https://github.com/sebousan/lawyerify-hugo-netlify-cms
+[submodule "themes/hugolify-theme"]
+	path = themes/hugolify-theme
+	url = git@github.com:sebousan/hugolify-theme
+[submodule "themes/lawyerify-hugolify-theme"]
+	path = themes/lawyerify-hugolify-theme
+	url = git@github.com:sebousan/lawyerify-hugolify-theme

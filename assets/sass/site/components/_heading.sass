@@ -1,22 +1,27 @@
 .heading
-    align-items: center;
+    @include rfs($global-spacing, "margin-bottom")
+    align-items: center
     flex-direction: column
+    position: relative
     text-align: center
+
+    &::after  
+        @include rfs($global-spacing, "margin-top")
+        @include rfs(200px, "width")
+        background-color: $border-color
+        content: ""
+        display: block
+        height: 1px
+        margin-left: auto
+        margin-right: auto
 
     .surtitle
         flex: auto
         margin-bottom: 0
-    h1
-        &::after  
-            background-color: $border-color
-            content: ""
-            display: block
-            height: 1px
-            margin: $global-spacing auto calc(#{$global-spacing} / 2)
-            width: 200px
+        
 
     @include media-breakpoint-up(md)
         button
-            bottom: 0
+            bottom: $global-spacing
             position: absolute
             right: 0

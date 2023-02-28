@@ -2,7 +2,7 @@
   <a href="{{ .Permalink }}" itemprop="url" class="content">
     {{ partial "commons/item/title" . }}
     {{ with .Content }}
-      <p class="description" itemprop="abstract">{{ partial "LineBreak" (partial "TruncateContent" (dict "content"  . "limit" 400)) }}</p>
+      <p class="description" itemprop="abstract">{{ partial "func/LineBreak" (partial "func/TruncateContent" (dict "content"  . "limit" 400)) }}</p>
     {{ end }}
     {{ partialCached "commons/item/more" . }}
   </a>

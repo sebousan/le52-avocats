@@ -17,11 +17,21 @@
 
     .surtitle
         flex: auto
-        margin-bottom: 0
-        
+
+    .btn-filter
+        margin-left: auto
+        margin-right: auto
+        margin-top: 2rem
 
     @include media-breakpoint-up(md)
-        button
-            bottom: $global-spacing
+        .btn-filter
+            margin: 0
             position: absolute
             right: 0
+            top: 0
+
+    @include media-breakpoint-up(xl)
+        .surtitle
+            left: 0
+            position: absolute
+            top: 0

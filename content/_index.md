@@ -2,23 +2,16 @@
 isIndex: true
 title: Accueil
 blocks:
-  - type: figure
-    grid: small
-    background: false
-    figure:
-      src: /images/uploads/cabinet-le-52.jpg
   - type: editorial
     direction: rtl
-    title: Le cabinet
+    title: « Le 52 » est un cabinet exclusivement dédié à la défense pénale.
     text: >-
-      « Le 52 » est un cabinet exclusivement dédié à la défense pénale.
-
-
-
       Tous formés aux côtés de pénalistes de renom et animés d’une passion commune pour la défense, Morgane Le Hir, Joseph Hazan, Sophie Rey-Gascon et Margot Pugliese, ont souhaité fonder une structure qui se consacre quotidiennement à tous les domaines du droit pénal : droit pénal général, droit pénal des affaires, droit pénal fiscal, droit pénal international, droit pénal de l’environnement, droit de la presse.
-
-
-
+    image:
+      src: /images/uploads/cabinet-le-52.jpg
+  - type: editorial
+    direction: ltr
+    text: >-
       Ils interviennent à tous les stades de la procédure pour assister mis en cause et victimes : en garde-à-vue, au cours de l’instruction, devant le Tribunal correctionnel et la Cour d’assises.
 
 
@@ -42,7 +35,7 @@ blocks:
     section: publications
     title: Actualités
     count: 4
-    show_more: false
+    show_more: true
   - type: map
     location: '{"type":"Point","coordinates":[2.3373296,48.8664207]}'
     zoom: 13
@@ -53,4 +46,5 @@ blocks:
       75001 Paris
 
       Tel : +33 (0) 1 53 32 50 76
+    grid: full
 ---

@@ -1,14 +1,10 @@
 {
-  "name": "lawyerify-hugo-template",
+  "name": "le52-avocats",
   "version": "1.0.0",
-  "repository": "https://github.com/sebousan/lawyerify-hugo-template",
+  "repository": "https://github.com/sebousan/le52-avocats",
   "author": {
     "name": "Lawyerify",
-    "url": "https://www.lawyerify.fr/"
-  },
-  "dependencies": {
-    "hugolify-theme": "./themes/hugolify-theme",
-    "lawyerify-hugolify-theme": "./themes/lawyerify-hugolify-theme"
+    "url": "https://www.lawyerify.io/"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
@@ -22,7 +18,8 @@
   "scripts": {
     "watch": "hugo server",
     "build": "hugo --minify",
-    "update": "git pull --recurse-submodules --depth 1 && git submodule update --remote",
+    "update": "hugo mod get -u",
+    "clean": "hugo mod clean",
     "cms": "npx netlify-cms-proxy-server"
   }
 }

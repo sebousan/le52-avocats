@@ -1,4 +1,5 @@
 _merge: deep
+animation: true
 persons:
   _merge: deep
   thumbnail:

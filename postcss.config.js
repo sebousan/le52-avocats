@@ -21,6 +21,7 @@ module.exports = {
                     /^tobii/
                 ],
                 greedy: [
+                    /^data-anim$/,
                     /^aria-current$/,
                     /^role$/
                 ]

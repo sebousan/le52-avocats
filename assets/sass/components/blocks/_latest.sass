@@ -6,3 +6,5 @@
         @include rfs($global-spacing, margin-top)
     .more
         @extend .btn-link
+        &::before
+            @include icon("arrow-right-short")

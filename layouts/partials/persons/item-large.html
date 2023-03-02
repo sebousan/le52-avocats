@@ -1,4 +1,4 @@
-<article class="person" itemscope itemtype="https://schema.org/Person">
+<article class="person" itemscope itemtype="https://schema.org/Person"{{ partial "func/SetAnim" (dict "element" "item") }}>
   <a href="{{ .Permalink }}" itemprop="url" class="content">
     {{ partial "commons/item/title" . }}
     {{ with .Content }}

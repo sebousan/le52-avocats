@@ -1,6 +1,6 @@
 {{ range .Pages.GroupByParam "statutes" }}
   <section>
-    {{ with site.GetPage (printf "/statutes/%s" .Key) }}
+    {{ with site.GetPage (printf "/statutes/%s" (.Key | urlize)) }}
       <header class="heading"{{ partial "func/SetAnim" (dict "element" "heading") }}>
         <h2>{{ .Title }}</h2>
       </header>

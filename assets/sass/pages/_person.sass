@@ -1,0 +1,32 @@
+.page-persons
+    .latest
+        @include margin-top($global-spacing)
+    div + .latest 
+        @include margin-top($global-spacing-double)
+    
+    @include media-breakpoint-up(md)
+        .grid
+            >
+                .heading
+                    grid-row: 1
+                .featured-image
+                    grid-column: 1/4
+                    grid-row: 2
+                .content
+                    grid-column: 4/9
+                    grid-row: 2/4
+                .sidebar
+                    grid-column: 1/4
+                    grid-row: 3
+                .latest
+                    grid-column: 1/13
+                    grid-row: 4
+                    
+    @include media-breakpoint-down(md)
+        .grid
+            >
+                .featured-image
+                    order: 2
+                    width: 66%
+                .latest
+                    order: 5

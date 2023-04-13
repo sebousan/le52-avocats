@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Morgane Le Hir
-statutes: associate
+statutes: Associé
 description: Au terme d’un parcours universitaire exclusivement consacré au droit pénal (elle est titulaire d’un master 2 « pratique du pénal » et des certificats de criminologie et de sciences criminelles de l’Université Paris II), Morgane LE HIR a poursuivi sa formation auprès de pénalistes parisiens de renom tels que Jean-Louis Pelletier, Michel Konitz et Yann Lebras.
 image:
   src: /images/uploads/morgane-le-hir.jpg

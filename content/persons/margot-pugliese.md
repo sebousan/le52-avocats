@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Margot Pugliese
-statutes: associate
+statutes: Associé
 description: Margot Pugliese consacre son activité à la défense pénale.
 image:
   src: /images/uploads/margot-pugliese.jpg

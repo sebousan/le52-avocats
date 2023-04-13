@@ -12,3 +12,6 @@ publications:
     one: Actualité
     other: Actualités
   title_person: Actualités de {{ .Person }}
+
+concerned:
+  discover: En savoir plus

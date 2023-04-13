@@ -21,12 +21,25 @@
                 .latest
                     grid-column: 1/13
                     grid-row: 4
+
+    @include media-breakpoint-up(xl)
+        .grid
+            >
+                .featured-image,
+                .sidebar
+                    grid-column: 2/6
+                .content
+                    grid-column: 6/12
+                
                     
     @include media-breakpoint-down(md)
         .grid
             >
                 .featured-image
+                    margin-bottom: 0
                     order: 2
-                    width: 66%
+                .sidebar
+                    @include margin-bottom($global-spacing)
+                    order: 2
                 .latest
                     order: 5

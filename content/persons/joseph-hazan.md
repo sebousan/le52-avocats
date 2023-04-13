@@ -17,7 +17,7 @@ Joseph Hazan est inscrit au barreau de Paris depuis 2011 et intervient exclusive
 Au terme d’un double Master 2 Droit Privé – Droit de la Santé, il a poursuivi sa formation au sein de cabinets intervenant dans le contentieux pénal des dommages de masses et catastrophes industrielles.
 
 
-Après avoir prêté serment, il a tout d’abord exercé au sein du Cabinet Roosevelt Avocats, puis en tant que collaborateur et associé du cabinet pénaliste de Me Eric PLOUVIER.
+Après avoir prêté serment, il a tout d’abord exercé au sein du Cabinet Roosevelt Avocats, puis en tant que collaborateur et associé du cabinet pénaliste de Me Eric Plouvier.
 
 En 2016, il crée sa propre structure et développe son activité dans la défense pénale des personnes physiques et morales.
 

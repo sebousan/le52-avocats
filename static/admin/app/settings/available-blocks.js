@@ -10,8 +10,6 @@ export const availableBlocks = [
     'editorial',
     'embed',
     'figure',
-    'gallery',
-    'images',
     'paragraph',
     'selectedpersons',
     'selectedpublications',

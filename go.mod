@@ -2,8 +2,6 @@ module github.com/sebousan/le52-avocats
 
 go 1.19
 
-replace github.com/hugolify/lawyerify-netlify-cms => /Users/sebastienmoulene/Dev/lawyerify-netlify-cms
-
 require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-netlify-cms v1.1.12 // indirect

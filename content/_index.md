@@ -42,21 +42,24 @@ blocks:
       - morgane-le-hir
       - margot-pugliese
       - sophie-rey-gascon
-    title: Les associés
+    heading:
+      title: Les associés
   - type: latest
     section: publications
-    title: Actualités
     count: 4
     show_more: true
+    heading:
+      title: Actualités
   - type: map
     location: '{"type":"Point","coordinates":[2.3373296,48.8664207]}'
     zoom: 13
     background: false
-    title: Contact
-    text: |-
-      52 rue de Richelieu
-      75001 Paris
-
-      Tel : +33 (0) 1 53 32 50 76
     grid: full
+    heading:
+      title: Contact
+      text: |-
+        52 rue de Richelieu
+        75001 Paris
+
+        Tel : +33 (0) 1 53 32 50 76
 ---

@@ -13,9 +13,6 @@ blocks:
     zoom: 13
     background: false
     grid: large
-    text: |-
-      52 rue de Richelieu
-      75001 Paris
-      France
-    title: En plein cœur de Paris
+    heading:
+      title: 52 rue de Richelieu 75001 Paris, France
 ---

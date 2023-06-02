@@ -11,5 +11,6 @@ imaging:
 markup:
   tableOfContents:
     ordered: true
-paginate: 16
+paginate: 20
 removePathAccents: true
+disableHugoGeneratorInject: true

@@ -38,16 +38,12 @@ https://www.netlify.com
 
 ## Conception
 
-**Solution** \
-Ce site a été conçu avec [Hugolify](https://www.hugolify.io), une solution open-source jamstack, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d’accessibilité.
-
-**CMS** \
-Lawyerify \
-https://www.lawyerify.io
-
 **Intégration et développement** \
 Un Cinq \
 https://uncinq.dev
+
+**Solution** \
+Ce site a été conçu avec {{< blank_link link="https://www.lawyerify.io" text="Lawyerify" >}}, une solution open-source Jamstack, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité. Cette solution est dédiée à l’univers du droit.
 
 ## Médiation
 

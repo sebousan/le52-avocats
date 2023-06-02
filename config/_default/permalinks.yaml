@@ -1,5 +1,5 @@
+_merge: deep
 persons:        /equipe/:slug/
 statutes:       /equipe/:slug/
-
 publications:   /actualites/:year-:month-:day-:slug/
 concerned:      /actualites/:slug/

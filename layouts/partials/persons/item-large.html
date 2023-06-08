@@ -1,5 +1,5 @@
 <article class="person" itemscope itemtype="https://schema.org/Person"{{ partial "func/SetAnim" (dict "element" "item") }}>
-  {{ range .GetTerms "statutes" }}
+  {{ range .GetTerms "persons_statutes" }}
     <meta itemprop="jobTitle" content="{{ partial "func/PrepareHTML" .Title }}">
   {{ end }}
   <a href="{{ .Permalink }}" itemprop="url" class="content">

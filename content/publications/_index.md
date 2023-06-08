@@ -1,5 +1,5 @@
 ---
 isIndex: true
 title: Actualités
-url: "/actualites"
+url: actualites
 ---

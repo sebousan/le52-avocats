@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Joseph Hazan
-statutes: Associé
+persons_statutes: Associé
 description: Joseph Hazan est inscrit au barreau de Paris depuis 2011 et intervient exclusivement en matière pénale.
 image:
   src: /images/uploads/joseph-hazan.jpg

@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Camille Le Gall
-statutes: Collaborateur
+persons_statutes: Collaborateur
 description: Camille Le Gall est diplômée d’un Master bilingue de droit franco-allemand des affaires de l’Université Paris X et d’un Master de droit de la propriété intellectuelle de l’Université de Strasbourg.
 ---
 Camille Le Gall est diplômée d’un Master bilingue de droit franco-allemand des affaires de l’Université Paris X et d’un Master de droit de la propriété intellectuelle de l’Université de Strasbourg.

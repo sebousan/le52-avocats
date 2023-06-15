@@ -1,17 +1,32 @@
 .person
+    --bs-card-spacer-x: 0
+    --bs-card-border-width: 0
+    --bs-card-border-radius: 0
+    --bs-card-inner-border-radius: 0
+    --bs-card-bg: transparent
+    --bs-card-cap-bg: transparent
+    @extend .card
+    .description
+        @extend .small
+        color: $gray-600
+    a
+        @extend .stretched-link
+    img
+        height: auto
+        width: 100%
     .name
         @include font-size(1.125rem)
     .content + div
+        @extend .ratio
         --bs-aspect-ratio: 150%
-        background-color: transparent
-        border-radius: 0
+        align-self: flex-start
+        max-width: var(--card-media)
+        order: -1
     .cta
         --bs-btn-padding-x: 0
         @extend .btn-link
         font-size: $small-font-size
         font-weight: $font-weight-bold
-    .description
-        color: $gray-600
 
     main .persons-large &
         display: grid

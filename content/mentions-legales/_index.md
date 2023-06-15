@@ -43,7 +43,7 @@ Un Cinq \
 https://uncinq.dev
 
 **Solution** \
-Ce site a été conçu avec {{< blank_link link="https://www.lawyerify.io" text="Lawyerify" >}}, une solution open-source Jamstack, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité. Cette solution est dédiée à l’univers du droit.
+Ce site a été conçu avec {{< blank_link link="https://www.lawyerify.io" text="Lawyerify" >}}, une solution open-source, qui permet de concevoir un site Web le plus écologique possible et au plus proche des critères d’accessibilité. Cette solution est dédiée à l’univers du droit.
 
 ## Médiation
 

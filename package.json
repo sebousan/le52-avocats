@@ -1,6 +1,6 @@
 {
   "name": "le52-avocats",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "https://github.com/sebousan/le52-avocats",
   "author": {
     "name": "Lawyerify",
@@ -17,9 +17,11 @@
   },
   "scripts": {
     "watch": "hugo server",
-    "build": "hugo --minify",
+    "build": "hugo --gc --minify",
     "update": "hugo mod get -u",
+    "tidy": "hugo mod tidy",
     "clean": "hugo mod clean",
+    "cleanall": "hugo mod clean --all",
     "cms": "npx netlify-cms-proxy-server"
   }
 }

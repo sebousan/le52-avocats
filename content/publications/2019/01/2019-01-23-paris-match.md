@@ -2,7 +2,7 @@
 isIndex: false
 title: "Trois jours de sévices après une disparition de cannabis : la violence du trafic aux assises"
 date: 2019-01-23T15:17:21+00:00
-concerned:
+publications_concerned:
   - morgane-le-hir
 press:
   title: Paris Match

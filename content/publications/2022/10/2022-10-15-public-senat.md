@@ -2,7 +2,7 @@
 isIndex: false
 title: Ténoras, paroles d‘avocates
 date: 2022-10-15T14:39:16+00:00
-concerned:
+publications_concerned:
   - sophie-rey-gascon
 press:
   title: Public Sénat

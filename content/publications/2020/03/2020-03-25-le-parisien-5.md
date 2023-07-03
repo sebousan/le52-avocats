@@ -2,7 +2,7 @@
 isIndex: false
 title: "Covid 19 et report du procès des attentats de janvier 2015: « cela nous semblait inévitable »"
 date: 2020-03-25T11:16:32+00:00
-concerned:
+publications_concerned:
   - margot-pugliese
 press:
   title: Le Parisien

@@ -13,5 +13,5 @@ publications:
     other: Actualités
   title_person: Actualités de {{ .Person }}
 
-concerned:
+publications_concerned:
   discover: En savoir plus

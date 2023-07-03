@@ -2,7 +2,7 @@
 isIndex: false
 title: "Procès: les rendez-vous coquins étaient des pièges"
 date: 2016-10-26T15:05:47+00:00
-concerned:
+publications_concerned:
   - margot-pugliese
 press: 
   title: Le Parisien

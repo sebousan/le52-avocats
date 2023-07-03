@@ -2,7 +2,7 @@
 isIndex: false
 title: Pour éviter le coronavirus en prison, des magistrats font baisser la pression carcé
 date: 2020-03-25T10:27:10+00:00
-concerned:
+publications_concerned:
   - morgane-le-hir
 press: 
   title: France Info

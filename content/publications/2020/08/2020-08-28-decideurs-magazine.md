@@ -2,7 +2,7 @@
 isIndex: false
 title: Le 52, le cabinet de la défense pénale
 date: 2020-08-28T13:13:33+00:00
-concerned:
+publications_concerned:
   - joseph-hazan
   - margot-pugliese
   - morgane-le-hir

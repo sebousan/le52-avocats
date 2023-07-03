@@ -2,7 +2,7 @@
 isIndex: false
 title: "Passeur torturé à Aulnay : l’ex-petite amie d’un trafiquant avait donné des noms"
 date: 2019-01-30T15:24:17+00:00
-concerned:
+publications_concerned:
   - morgane-le-hir
 press:
   title: Le Parisien

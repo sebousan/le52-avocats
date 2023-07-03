@@ -2,7 +2,7 @@
 isIndex: false
 title: "Meurtre dans une maison de passe : les Brésiliens condamnés"
 date: 2018-04-20T10:02:21+00:00
-concerned:
+publications_concerned:
   - joseph-hazan
   - sophie-rey-gascon
 press:

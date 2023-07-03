@@ -2,7 +2,7 @@
 isIndex: false
 title: "Samuel Paty : l‘enquête avance à petits pas"
 date: 2021-10-15T09:37:15+00:00
-concerned:
+publications_concerned:
   - morgane-le-hir
 press:
   title: Libération

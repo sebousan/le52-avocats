@@ -2,7 +2,7 @@
 isIndex: false
 title: Les voleurs de pots catalytiques écumaient l’Oise, le Val d’Oise et les Yvelines
 date: 2023-01-04T14:35:04+00:00
-concerned:
+publications_concerned:
   - sophie-rey-gascon
 press:
   title: Le Parisien

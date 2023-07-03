@@ -2,7 +2,7 @@
 isIndex: false
 title: Un ancien chef de cabinet des Hauts-de-Seine condamné pour un trafic de cocaïne entre la Martinique et la région parisienne
 date: 2019-03-22T11:20:29+00:00
-concerned:
+publications_concerned:
   - sophie-rey-gascon
 press:
   title: France Info

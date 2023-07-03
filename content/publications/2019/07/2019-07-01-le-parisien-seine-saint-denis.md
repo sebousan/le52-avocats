@@ -2,7 +2,7 @@
 isIndex: false
 title: "Seine-Saint-Denis : les dessous d‘un projet d‘assassinat en forêt de Bondy"
 date: 2019-07-01T10:17:09+00:00
-concerned:
+publications_concerned:
   - sophie-rey-gascon
 press:
   title: Le Parisien

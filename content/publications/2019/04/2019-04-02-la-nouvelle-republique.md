@@ -2,7 +2,7 @@
 isIndex: false
 title: "Trafic de cannabis à Châtellerault: le petit Casino ne « dépannait » pas que de l’épicerie"
 date: 2019-04-02T10:08:38+00:00
-concerned:
+publications_concerned:
   - sophie-rey-gascon
 press:
   title: La Nouvelle République

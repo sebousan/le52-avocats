@@ -2,7 +2,7 @@
 isIndex: false
 title: "Justice : la jeune garde des avocats du crime"
 date: 2015-05-12T09:51:10+00:00
-concerned:
+publications_concerned:
   - sophie-rey-gascon
 press:
   title: Le Parisien

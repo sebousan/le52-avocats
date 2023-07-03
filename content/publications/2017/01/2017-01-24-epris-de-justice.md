@@ -2,7 +2,7 @@
 isIndex: false
 title: Deux suicides, un parricide et les fantômes de la famille Simon
 date: 2017-01-24T10:59:23+00:00
-concerned:
+publications_concerned:
   - sophie-rey-gascon
 press:
   title: Épris de Justice

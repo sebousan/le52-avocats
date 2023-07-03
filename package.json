@@ -1,11 +1,12 @@
 {
   "name": "le52-avocats",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "repository": "https://github.com/sebousan/le52-avocats",
   "author": {
     "name": "Lawyerify",
     "url": "https://www.lawyerify.io/"
   },
+  "license": "MIT",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "autoprefixer": "^10.4.13",

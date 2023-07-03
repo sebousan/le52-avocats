@@ -7,7 +7,7 @@ build:
   writeStats: true
 enableRobotsTXT: true
 imaging:
-  quality: 75
+  quality: 70
 markup:
   tableOfContents:
     ordered: true

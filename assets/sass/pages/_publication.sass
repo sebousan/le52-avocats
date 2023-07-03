@@ -1,0 +1,16 @@
+.page-publications
+    .heading
+        h1
+            min-width: 100%
+    @include media-breakpoint-up(md)
+        .grid >
+            .content,
+            nav
+                grid-column: 1/8
+            .sidebar
+                grid-column: 9/13
+
+    @include media-breakpoint-up(xl)
+        .grid > 
+            .heading
+                grid-column: 3/11

@@ -1,7 +1,7 @@
 ---
 isIndex: false
-draft: true
-date: 2023-07-04T09:05:11.757Z
+draft: false
+date: 2023-06-14T09:05:11.757Z
 publications_concerned:
   - joseph-hazan
 title: Au procès de la "revenante" Douha Mounib

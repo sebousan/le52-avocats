@@ -12,8 +12,8 @@ github.com/hugolify/hugolify-theme-publications v1.1.17 h1:Hcoo9h28La95FfMulFPxP
 github.com/hugolify/hugolify-theme-publications v1.1.17/go.mod h1:9hR8/sdinGo6o4DJpZMTdP1I8XYwUUq585WmeU1zwH8=
 github.com/hugolify/hugolify-theme-publications-concerned v1.0.11 h1:6zOVAvE7cl+D8FD/UtUI8bRewypqHoTg6u3iIPr9Ros=
 github.com/hugolify/hugolify-theme-publications-concerned v1.0.11/go.mod h1:SAxYCXVsDJ5lUHU/YRrTIVWATehPwdy9a1VHhmUP5dw=
-github.com/hugolify/lawyerify-netlify-cms v1.0.8 h1:h/oaSBhh7P09Ye+jLoy17kQKiKTStA9FDG59I/RSZ4o=
-github.com/hugolify/lawyerify-netlify-cms v1.0.8/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
+github.com/hugolify/lawyerify-netlify-cms v1.0.9 h1:upBWCxQcbZe+YCzbpDheT5zefXtJ0nUEJ9QKGZ3wXhQ=
+github.com/hugolify/lawyerify-netlify-cms v1.0.9/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
 github.com/hugolify/lawyerify-theme v1.0.8 h1:Gw8odWy1RrN5b4rnPRrFYhGnt9ZQ3gz+HxHIuj/47rU=
 github.com/hugolify/lawyerify-theme v1.0.8/go.mod h1:/gEZGRHrgKI/hpj3r+917MKDZOtUsIAd4YSf06/hxTI=
 github.com/twbs/bootstrap v5.3.0+incompatible h1:4+staADO0OrqUv77m+XL+vHYojLH9oxb4Vxi9mnIJWg=

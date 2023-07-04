@@ -10,7 +10,7 @@ require (
 	github.com/hugolify/hugolify-theme-persons-statutes v1.1.0 // indirect
 	github.com/hugolify/hugolify-theme-publications v1.1.17 // indirect
 	github.com/hugolify/hugolify-theme-publications-concerned v1.0.11 // indirect
-	github.com/hugolify/lawyerify-netlify-cms v1.0.8 // indirect
+	github.com/hugolify/lawyerify-netlify-cms v1.0.9 // indirect
 	github.com/hugolify/lawyerify-theme v1.0.8 // indirect
 	github.com/twbs/bootstrap v5.3.0+incompatible // indirect
 )

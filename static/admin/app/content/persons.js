@@ -22,9 +22,13 @@ const persons = {
 
     nested: { depth: 2 },
     filter: { field: 'isIndex', value: false },
+    view_filters: [
+        { label: "Associé", field: "persons_statutes", pattern: "Associé" },
+        { label: "Collaborateur", field: "persons_statutes", pattern: "Collaborateur" }
+    ],
     
     slug: '{{slug}}',
-    sortable_fields: ['title'],
+    sortable_fields: [],
     summary: '{{title}}',
 
     fields: [

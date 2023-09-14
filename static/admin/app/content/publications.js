@@ -5,6 +5,7 @@ import { title } from '../fields/title.js'
 import { description } from '../fields/description.js'
 import { press } from '../fields/press.js'
 import { publications_concerned } from '../fields/publications_concerned.js'
+import {t} from "../i18n/translater.js";
 
 const publications = {
     name: 'publications',

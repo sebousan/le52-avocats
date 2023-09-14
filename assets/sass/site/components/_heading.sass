@@ -1,5 +1,5 @@
 .heading
-    @include rfs($global-spacing, "margin-bottom")
+    @include margin-bottom($global-spacing)
     align-items: center
     flex-direction: column
     position: relative
@@ -7,7 +7,7 @@
     text-wrap: balance
 
     &::after  
-        @include rfs($global-spacing, "margin-top")
+        @include margin-top($global-spacing)
         @include rfs(200px, "width")
         background-color: $border-color
         content: ""

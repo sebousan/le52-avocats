@@ -8,13 +8,13 @@ import { publications_concerned } from '../fields/publications_concerned.js'
 
 const publications = {
     name: 'publications',
-    label: 'Parutions',
-    label_singular: 'parution',
     folder: 'content/publications',
+    label: t.content.publications.label,
+    label_singular: t.content.publications.label_singular,
+    description: t.content.publications.description,
+
     create: true,
-
     editor: { preview: false },
-
     i18n: true,
 
     path: '{{year}}/{{month}}/{{slug}}',

@@ -48,3 +48,60 @@
                 grid-column: 1/6
             > .media
                 grid-column: 6/9
+
+
+
+aside.person
+    .media
+        --bs-aspect-ratio: 100%
+        --card-media: 50%
+        --card-media-mobile: 50%
+        border-radius: 50%
+        margin-left: var(--bs-card-spacer-x)
+        margin-top: var(--bs-card-spacer-y)
+        max-width: var(--card-media-mobile)
+        @include media-breakpoint-up(md)
+            max-width: var(--card-media)
+    .description
+        @extend .small
+        color: $text-muted
+    ul
+        font-size: $small-font-size
+        list-style: none
+        line-height: 1.8
+        padding-left: 0
+        margin-bottom: 1.5rem
+        margin-top: 1.5rem
+        @if variable-exists(bootstrap-icons-map)
+            b
+                display: none
+            .email
+                &::before
+                    @include icon("envelope")
+                    margin-right: .5em
+            .fax
+                &::before
+                    @include icon("printer")
+                    margin-right: .5em
+            .phone
+                &::before
+                    @include icon("phone")
+                    margin-right: .5em
+    .btn
+        @extend .btn-primary
+        text-wrap: balance
+    .more
+        font-size: $small-font-size
+        @if variable-exists(bootstrap-icons-map)
+            &::before
+                @include icon("arrow-right")
+                font-size: 1rem
+                margin-right: .5rem
+                vertical-align: -0.25em
+    a::after
+        content: none
+
+    .sidebar > & + &
+        margin-top: - $spacer
+        @include media-breakpoint-up(md)
+            margin-top: calc(#{$global-spacing} * -1 + #{$spacer})

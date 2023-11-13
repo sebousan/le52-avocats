@@ -12,4 +12,7 @@ persons:
   image:
     _merge: deep
     desktop: "416x624"
-    mobile: "300x450"
+    mobile: "360x540"
+  publications_concerned:
+    _merge: deep
+    desktop: "75x75"

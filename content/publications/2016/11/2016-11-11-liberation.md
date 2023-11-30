@@ -2,7 +2,7 @@
 isIndex: false
 title: La sensation qu’il fallait redoubler d’efforts pour faire son métier d’avocat
 date: 2016-11-11T15:46:59+00:00
-publications_concerned:
+publications_persons:
   - margot-pugliese
 press:
   title: Libération

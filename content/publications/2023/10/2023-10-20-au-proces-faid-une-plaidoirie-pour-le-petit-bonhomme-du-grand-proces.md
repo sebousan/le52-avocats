@@ -2,7 +2,7 @@
 isIndex: false
 draft: true
 date: 2023-10-18T13:10:00.535Z
-publications_concerned:
+publications_persons:
   - margot-pugliese
   - sophie-rey-gascon
 title: Au procès Faïd, une plaidoirie pour le "petit bonhomme" du "grand procès"

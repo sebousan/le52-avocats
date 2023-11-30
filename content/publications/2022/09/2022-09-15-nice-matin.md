@@ -2,7 +2,7 @@
 isIndex: false
 title: "Procès de l‘attentat du 14 juillet : Enkeledja Zace, l‘accusée qui nie tout"
 date: 2022-09-15T18:11:41+00:00
-publications_concerned:
+publications_persons:
   - joseph-hazan
 press:
   title: Nice Matin

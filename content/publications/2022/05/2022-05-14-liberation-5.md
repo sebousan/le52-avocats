@@ -2,7 +2,7 @@
 isIndex: false
 title: Espionnage, complot et paranoïa en famille à la cour d‘assises de Paris
 date: 2022-05-14T14:14:58+00:00
-publications_concerned:
+publications_persons:
   - sophie-rey-gascon
 press:
   title: Libération

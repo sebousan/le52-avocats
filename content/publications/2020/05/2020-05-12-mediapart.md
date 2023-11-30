@@ -2,7 +2,7 @@
 isIndex: false
 title: "Détention provisoire : le tollé continue contre l‘ordonnance Belloubet"
 date: 2020-05-12T12:20:53+00:00
-publications_concerned:
+publications_persons:
   - sophie-rey-gascon
 press:
   title: Mediapart

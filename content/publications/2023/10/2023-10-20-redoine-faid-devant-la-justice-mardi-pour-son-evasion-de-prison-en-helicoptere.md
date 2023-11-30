@@ -2,7 +2,7 @@
 isIndex: false
 draft: true
 date: 2023-09-03T13:04:01.953Z
-publications_concerned:
+publications_persons:
   - margot-pugliese
   - sophie-rey-gascon
 title: Rédoine Faïd devant la justice mardi pour son évasion de prison en hélicoptère

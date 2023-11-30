@@ -2,7 +2,7 @@
 isIndex: false
 title: "Braquage de la « caravane du prince » : jusqu‘à onze ans de prison requis contre les accusés"
 date: 2021-05-18T13:04:56+00:00
-publications_concerned:
+publications_persons:
   - joseph-hazan
   - sophie-rey-gascon
 press:

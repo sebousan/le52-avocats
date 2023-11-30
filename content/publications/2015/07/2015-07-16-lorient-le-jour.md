@@ -2,7 +2,7 @@
 isIndex: false
 title: "Quatrième édition du prix Louis Delamare: plaidoiries en faveur de l‘abolition de la peine de mort"
 date: 2015-07-16T10:12:10+00:00
-publications_concerned:
+publications_persons:
   - sophie-rey-gascon
 press:
   title: L’Orient Le Jour

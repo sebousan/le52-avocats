@@ -2,7 +2,7 @@
 isIndex: false
 title: Au procès de Bagui Traore, le spectre de la mort de son frère Adama
 date: 2021-06-24T15:24:29+00:00
-publications_concerned:
+publications_persons:
   - joseph-hazan
 press:
   title: Libération

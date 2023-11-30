@@ -2,7 +2,7 @@
 isIndex: false
 title: "Droit pénal des affaires : changement de génération(s) ou de paradigme ?"
 date: 2017-11-13T15:51:47+00:00
-publications_concerned:
+publications_persons:
   - margot-pugliese
 press:
   title: La Lettre des Juristes d’Affaires

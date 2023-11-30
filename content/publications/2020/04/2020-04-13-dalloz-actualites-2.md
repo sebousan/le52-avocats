@@ -2,7 +2,7 @@
 isIndex: false
 title: "Libre cours : « On emprisonne le droit pendant la guerre »"
 date: 2020-04-13T07:46:17+00:00
-publications_concerned:
+publications_persons:
   - margot-pugliese
 press:
   title: Dalloz Actualités

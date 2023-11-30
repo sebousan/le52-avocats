@@ -6,13 +6,13 @@ persons:
     _merge: deep
     desktop: "306x459"
     mobile: "138x216"
-  large: 
+  large:
     desktop: "330x495"
     mobile: "300x450"
   image:
     _merge: deep
     desktop: "416x624"
     mobile: "360x540"
-  publications_concerned:
+  publications_persons:
     _merge: deep
     desktop: "75x75"

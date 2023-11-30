@@ -2,7 +2,7 @@
 isIndex: false
 title: « Yeux bleus », un des braqueurs de Kim Kardashian, pourrait retourner en prison
 date: 2017-12-12T11:24:24+00:00
-publications_concerned:
+publications_persons:
   - joseph-hazan
   - margot-pugliese
 press:

@@ -2,7 +2,7 @@
 isIndex: false
 title: Les prolongations automatiques de détention provisoire validées par la Cour de cassation
 date: 2020-05-26T10:19:46+00:00
-publications_concerned:
+publications_persons:
   - sophie-rey-gascon
 press:
   title: Le Parisien

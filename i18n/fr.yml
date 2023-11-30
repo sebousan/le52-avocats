@@ -6,12 +6,12 @@ publications:
   list_person: Liste des actualités de {{ .Person }}
   more: Découvrir plus d’actualités
   more_person: Découvrir plus d’actualités de {{ .Person }}
-  press: 
+  press:
     more: Découvrir l’article complet
   title:
     one: Actualité
     other: Actualités
   title_person: Actualités de {{ .Person }}
 
-publications_concerned:
+publications_persons:
   discover: En savoir plus

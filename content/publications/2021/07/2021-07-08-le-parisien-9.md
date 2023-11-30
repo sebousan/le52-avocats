@@ -2,7 +2,7 @@
 isIndex: false
 title: L‘avocat qui filmait sous les jupes condamné à un an de prison avec sursis
 date: 2021-07-08T15:21:25+00:00
-publications_concerned:
+publications_persons:
   - joseph-hazan
 press:
   title: Le Parisien

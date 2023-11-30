@@ -2,7 +2,7 @@
 isIndex: false
 title: "Procès des attentats. Cinquante deuxième jour : la colère de la défense"
 date: 2020-12-11T13:47:45+00:00
-publications_concerned:
+publications_persons:
   - margot-pugliese
 press:
   title: Charlie Hebdo

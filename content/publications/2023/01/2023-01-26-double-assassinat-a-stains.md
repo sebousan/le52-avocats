@@ -2,7 +2,7 @@
 isIndex: false
 title: "Double assassinat à Stains : « un petit soulagement » après le retour en détention du cerveau présumé"
 date: 2023-01-26T14:35:04+00:00
-publications_concerned:
+publications_persons:
   - joseph-hazan
 press:
   title: Le Parisien

@@ -2,7 +2,7 @@
 isIndex: false
 title: "Proxénétisme nigérian: « leur ancien statut de victime ne doit pas atténuer leur responsabilité »"
 date: 2019-12-06T10:55:06+00:00
-publications_concerned:
+publications_persons:
   - joseph-hazan
   - sophie-rey-gascon
 press:

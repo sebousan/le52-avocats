@@ -2,7 +2,7 @@
 isIndex: false
 title: "Justice : paroles de quatre « ténoras » sur Public Sénat"
 date: 2022-10-14T14:35:04+00:00
-publications_concerned:
+publications_persons:
   - sophie-rey-gascon
 press:
   title: France Info

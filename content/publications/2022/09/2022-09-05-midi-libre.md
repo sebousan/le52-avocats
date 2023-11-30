@@ -2,7 +2,7 @@
 isIndex: false
 title: "Attentats de Nice: « ce procès nourrira de la déception chez les victimes » affirme l‘avocate d‘un accusé"
 date: 2022-09-05T18:07:23+00:00
-publications_concerned:
+publications_persons:
   - margot-pugliese
 press:
   title: Midi Libre

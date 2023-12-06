@@ -4,6 +4,8 @@ github.com/hugolify/hugolify-netlify-cms v1.8.3 h1:Y8PZ/exxZxEaKcmFJyi42culpJeWe
 github.com/hugolify/hugolify-netlify-cms v1.8.3/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
 github.com/hugolify/hugolify-theme v1.7.42 h1:+H2BVawR/45OhPTlmiSYaUmjlu9f1Y/VppfhaBtwyok=
 github.com/hugolify/hugolify-theme v1.7.42/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
+github.com/hugolify/hugolify-theme v1.7.43 h1:469bZVG8bmG5F0FgK9yzl6s/kRY0Sd6M8KLdpGLEA+s=
+github.com/hugolify/hugolify-theme v1.7.43/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
 github.com/hugolify/hugolify-theme-persons v1.3.10 h1:pxmINxKByDyDf6e7oJ9MdABiR7TFUSZaL2O/X82nC9U=
 github.com/hugolify/hugolify-theme-persons v1.3.10/go.mod h1:LjjY/5pEDk2r3URTU8xS7Sango4D4K9ExU0+OaJwOUA=
 github.com/hugolify/hugolify-theme-persons-statutes v1.1.4 h1:5VUyyFkBt07bK/ktoxqlEd1H78p7P/jXy03sx/sE5PQ=

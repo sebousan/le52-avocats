@@ -5,7 +5,7 @@ title: Margot Pugliese
 persons_statutes: Associé
 description: Margot Pugliese consacre son activité à la défense pénale.
 image:
-  src: /images/uploads/margot-pugliese.jpg
+  src: /images/uploads/margot-pugliese-2024.jpg
 contact:
   email: mp@le52-avocats.com
   phone: +33 (0) 1 53 32 50 76

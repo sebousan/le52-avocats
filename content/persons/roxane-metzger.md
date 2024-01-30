@@ -3,6 +3,8 @@ isIndex: false
 draft: false
 title: Roxane Metzger
 persons_statutes: Collaborateur
+image:
+  src: /images/uploads/roxane-metzger.jpg
 ---
 Après des études à Londres, Roxane METZGER a été diplômée du master "Carrières juridiques et judiciaires" de  l'école de droit de Sciences Po Paris en 2021.
 

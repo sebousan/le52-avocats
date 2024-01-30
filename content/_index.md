@@ -24,7 +24,7 @@ blocks:
 
       * droit de la presse.
     image:
-      src: /images/uploads/cabinet-le-52.jpg
+      src: /images/uploads/le52-associes.jpg
   - type: editorial
     direction: ltr
     text: >-

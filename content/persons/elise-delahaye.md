@@ -3,6 +3,8 @@ isIndex: false
 draft: false
 title: Elise Delahaye
 persons_statutes: Collaborateur
+image:
+  src: /images/uploads/elise-delahaye.jpg
 ---
 Diplômée du master Droit économique de l’Ecole de droit de Sciences Po Paris, spécialité Contentieux économique et arbitrage, Élise Delahaye est avocate au barreau de Paris depuis 2023.
 

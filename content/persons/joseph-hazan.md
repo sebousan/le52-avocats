@@ -3,9 +3,10 @@ isIndex: false
 draft: false
 title: Joseph Hazan
 persons_statutes: Associé
-description: Joseph Hazan est inscrit au barreau de Paris depuis 2011 et intervient exclusivement en matière pénale.
+description: Joseph Hazan est inscrit au barreau de Paris depuis 2011 et
+  intervient exclusivement en matière pénale.
 image:
-  src: /images/uploads/joseph-hazan.jpg
+  src: /images/uploads/joseph-hazan-2024.jpg
 contact:
   email: jh@le52-avocats.com
   phone: +33 (0) 1 53 32 50 76

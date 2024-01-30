@@ -6,10 +6,20 @@ persons_statutes: Collaborateur
 image:
   src: /images/uploads/roxane-metzger.jpg
 ---
-Après des études à Londres, Roxane METZGER a été diplômée du master "Carrières juridiques et judiciaires" de  l'école de droit de Sciences Po Paris en 2021.
+Après l’obtention d’une licence de la prestigieuse University College de Londres, Roxane METZGER intègre l'école de droit de Sciences Po Paris dont elle sort diplômée en 2021, titulaire du Master « Carrière juridique et judiciaire » avec la mention d’excellence « Cum Laude ».
 
-Elle effectue ensuite des stages auprès des juridictions pénales (chambres correctionnelles et service de l'application des peines) au sein du tribunal judiciaire de Melun.
+ 
 
-Elle intègre le cabinet "le 52" en janvier 2023 pour son stage final.
+Elle débute sa carrière professionnelle en effectuant plusieurs stages au sein du tribunal judiciaire de Melun auprès des juridictions du fonds – chambres correctionnelles – et des juridictions chargées de l’application des peines.
 
-Roxane Metzger y exerce en qualité d'avocate collaboratrice auprès de Margot Pugliese et Sophie Rey-Gascon depuis novembre 2023.
+ 
+
+Elle poursuivra plusieurs stages au sein de cabinet spécialisés en droit pénal, avant de rejoindre le cabinet « Le 52 » pour y effectuer son stage final en janvier 2023.
+
+ 
+
+Roxane Metzger exerce au sein du cabinet en qualité d'avocate collaboratrice depuis son inscription au barreau de Paris au mois de novembre 2023.
+
+ 
+
+Elle intervient en droit pénal, droit pénal des affaires et droit de l’exécution et de l’application des peines.

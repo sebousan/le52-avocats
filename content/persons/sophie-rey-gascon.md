@@ -3,9 +3,11 @@ isIndex: false
 draft: false
 title: Sophie Rey-Gascon
 persons_statutes: Associé
-description: Titulaire d’un Master 2 « Droit pénal et Politique criminelle en Europe » à l’Université Paris-La Sorbonne, Sophie Rey-Gascon est avocate au Barreau de Paris depuis 2012.
+description: Titulaire d’un Master 2 « Droit pénal et Politique criminelle en
+  Europe » à l’Université Paris-La Sorbonne, Sophie Rey-Gascon est avocate au
+  Barreau de Paris depuis 2012.
 image:
-  src: /images/uploads/sophie-rey-gascon.jpg
+  src: /images/uploads/sophie-rey-gascon-2024.jpg
 contact:
   email: srg@le52-avocats.com
   phone: +33 (0) 1 53 32 50 76

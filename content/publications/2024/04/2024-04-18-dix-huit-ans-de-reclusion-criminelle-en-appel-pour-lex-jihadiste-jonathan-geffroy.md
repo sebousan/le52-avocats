@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2024-03-19T09:41:46.043Z
+date: 2024-01-19T09:41:46.043Z
 title: Dix-huit ans de réclusion criminelle en appel pour l'ex-jihadiste
   Jonathan Geffroy
 press:

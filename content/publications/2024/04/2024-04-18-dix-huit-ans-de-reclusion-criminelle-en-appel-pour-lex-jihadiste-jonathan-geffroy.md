@@ -2,6 +2,8 @@
 isIndex: false
 draft: false
 date: 2024-01-19T09:41:46.043Z
+publications_persons:
+  - margot-pugliese
 title: Dix-huit ans de réclusion criminelle en appel pour l'ex-jihadiste
   Jonathan Geffroy
 press:

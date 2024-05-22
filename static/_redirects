@@ -1,9 +1,17 @@
-/lequipe/                   /equipe/
-/avocat/joseph-hazan/       /equipe/joseph-hazan/
-/avocat/margot-pugliese/    /equipe/margot-pugliese/
-/avocat/morgane-le-hir/     /equipe/morgane-le-hir/
-/avocat/sophie-rey-gascon/  /equipe/sophie-rey-gascon/
-/avocat/camille-le-gall/    /equipe/camille-le-gall/
-/collaborateur/camille-le-gall/    /equipe/camille-le-gall/
-/lequipe/les-associes/         /equipe/
-/category/sophie-rey-gascon/   /equipe/sophie-rey-gascon/
+/lequipe/                           /equipe/
+/avocat/joseph-hazan/               /equipe/joseph-hazan/
+/avocat/margot-pugliese/            /equipe/margot-pugliese/
+/avocat/sophie-rey-gascon/          /equipe/sophie-rey-gascon/
+/lequipe/les-associes/              /equipe/
+/category/sophie-rey-gascon/        /equipe/sophie-rey-gascon/
+
+/avocat/morgane-le-hir/            /
+/avocat/camille-le-gall/           /
+/collaborateur/camille-le-gall/    /
+/equipe/camille-le-gall/           /
+/equipe/morgane-le-hir/            /
+
+/actualites/2021-10-15-samuel-paty-lenquete-avance-a-petits-pas/   /actualites/
+/actualites/2021-11-12-un-homme-condamne-a-20-ans-de-prison-a-versailles-pour-un-feminicide/   /actualites/
+/actualites/2020-04-16-coronavirus-et-prison-le-desarroi-des-proches-de-detenus/   /actualites/
+/actualites/2020-10-08-accuse-de-violences-le-hurdleur-ludovic-payen-est-sous-le-coup-dune-enquete-de-police/   /actualites/

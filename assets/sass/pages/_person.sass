@@ -1,6 +1,8 @@
 .page-persons
     .latest
         @include margin-top($global-spacing-double)
+    .featured-image
+        margin-top: 0
     
     @include media-breakpoint-up(md)
         .grid
@@ -8,13 +10,13 @@
                 .heading
                     grid-row: 1
                 .featured-image
-                    grid-column: 1/4
+                    grid-column: 1/6
                     grid-row: 2
                 .content
-                    grid-column: 4/9
+                    grid-column: 6/13
                     grid-row: 2/4
                 .sidebar
-                    grid-column: 1/4
+                    grid-column: 1/6
                     grid-row: 3
                 .latest
                     grid-column: 1/13

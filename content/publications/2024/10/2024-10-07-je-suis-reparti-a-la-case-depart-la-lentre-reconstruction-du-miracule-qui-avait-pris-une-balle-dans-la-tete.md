@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2024-04-03T13:23:03.736Z
 publications_persons:
   - joseph-hazan

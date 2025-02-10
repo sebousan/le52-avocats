@@ -1,0 +1,4 @@
+{{- $paginator := .Paginator.Pages -}}
+{{- $atf := cond (partial "func/HasImageHero" .) false true -}}
+{{ partial "publications/items" (dict "pages" $paginator "abovethefold" $atf "groupbyyear" true) }}
+{{ partial "nav/pagination.html" . }}

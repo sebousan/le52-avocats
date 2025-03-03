@@ -2,6 +2,8 @@
 isIndex: false
 draft: false
 date: 2023-11-09T13:24:21.313Z
+publications_persons:
+  - sophie-rey-gascon
 title: 'Paris: la reconstitution "laborieuse" du meurtre de Federico Martin
   Aramburu boulevard Saint-Germain'
 press:

@@ -1,5 +1,28 @@
 _merge: deep
+
+# Javascript
 animation: true
+bootstrap:
+  alert: false
+  carousel: false
+  collapse: false
+  dropdown: false
+  modal: false
+  offcanvas: true
+  popover: false
+  scrollspy: false
+  tab: false
+  toast: false
+  tooltip: false
+carousel: false
+map: true
+parallax: 
+  enable: false
+
+# Image
+image:
+  retina:
+    desktop: true
 persons:
   _merge: deep
   thumbnail:

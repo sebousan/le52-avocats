@@ -1,5 +1,7 @@
 _merge: deep
-persons: /equipe/:slug/
-persons_statutes: /equipe/:slug/
-publications: /actualites/:year-:month-:day-:slug/
-publications_persons: /actualites/:slug/
+page:
+  persons: /equipe/:slug/
+  publications: /actualites/:year-:month-:day-:slug/
+term:
+  persons_statutes: /equipe/:slug/
+  publications_persons: /actualites/:slug/

@@ -149,32 +149,6 @@
       "visually-hidden",
       "year"
     ],
-    "ids": [
-      "-le-52--est-un-cabinet-exclusivement-dédié-à-la-défense-pénale",
-      "52-rue-de-richelieu-75001-paris-france",
-      "TableOfContents",
-      "actualités",
-      "conception",
-      "contact",
-      "contenu-du-site",
-      "cookies",
-      "exclusion-de-responsabilité",
-      "footer",
-      "hébergement",
-      "les-associés",
-      "main",
-      "médiation",
-      "navigation",
-      "navigationLabel",
-      "pages",
-      "persons",
-      "protection-des-données-à-caractère-personnel",
-      "publications",
-      "publicationsFilters",
-      "publicationsFiltersLabel",
-      "toc",
-      "tocLabel",
-      "éditeur"
-    ]
+    "ids": null
   }
 }

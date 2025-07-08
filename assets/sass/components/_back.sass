@@ -1,0 +1,7 @@
+.back
+    font-size: $small-font-size
+    @if variable-exists(icons-map)
+        &::before
+            @include icon("arrow-right")
+            margin-right: .5em
+            transform: rotate(180deg)

@@ -39,3 +39,7 @@ persons:
   publications_persons:
     _merge: deep
     desktop: '75x75'
+
+# Admin
+admin:
+  cms: netlifycms

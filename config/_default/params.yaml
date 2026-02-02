@@ -41,7 +41,7 @@ persons:
     desktop: '75x75'
 
 # Map
-tile: 3
+tile: 1
 
 # Admin
 admin:

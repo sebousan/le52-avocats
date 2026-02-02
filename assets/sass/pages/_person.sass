@@ -3,6 +3,13 @@
         @include margin-top($global-spacing-double)
     .featured-image
         margin-top: 0
+    .latest
+        @include margin-bottom(- $global-spacing-double)
+        @include padding-bottom($global-spacing-double)
+        @include padding-top($global-spacing-double)
+        background-color: $light
+    .publication .press span
+        background-color: $footer-background-color
     
     @include media-breakpoint-up(md)
         .grid
@@ -25,11 +32,16 @@
     @include media-breakpoint-up(xl)
         .grid
             >
-                .featured-image,
-                .sidebar
+                .featured-image
                     grid-column: 2/6
                 .content
                     grid-column: 6/12
+                .sidebar
+                    grid-column: 2/12
+        .contact-list > div
+            --bs-card-spacer-x: #{$global-spacing}
+            --bs-card-spacer-y: #{$global-spacing}
+            
                 
                     
     @include media-breakpoint-down(md)

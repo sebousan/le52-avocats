@@ -10,6 +10,8 @@ github.com/hugolify/hugolify-netlify-cms v1.8.3 h1:Y8PZ/exxZxEaKcmFJyi42culpJeWe
 github.com/hugolify/hugolify-netlify-cms v1.8.3/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
 github.com/hugolify/hugolify-theme v1.26.26 h1:/GM0YGnJEdpdPemO8hEKAB/geXLp/qvFjngNAfclu/k=
 github.com/hugolify/hugolify-theme v1.26.26/go.mod h1:Rc64eJSSIWGeU6eHfSzUISNfL9UrJmy3Xs3H05Gz9rQ=
+github.com/hugolify/hugolify-theme v1.27.0 h1:sTQ0357vCMYYOE/KXVioHiRVThz1qCIz0x+F9jZnxmI=
+github.com/hugolify/hugolify-theme v1.27.0/go.mod h1:Rc64eJSSIWGeU6eHfSzUISNfL9UrJmy3Xs3H05Gz9rQ=
 github.com/hugolify/hugolify-theme-persons v1.3.26 h1:APxEu7cCSxFPyyE0TGlzRZtKUGL+2P1349tRsOzOnG4=
 github.com/hugolify/hugolify-theme-persons v1.3.26/go.mod h1:x6Gk/koepvu90W+Y6W0+F+5qqBx+lpeTZUonZUkCz1w=
 github.com/hugolify/hugolify-theme-persons-statutes v1.1.12 h1:DbH0jLNQAyeHkYHRfIqKAG30mpul3ZT0oRmGU0G6XEo=
@@ -24,6 +26,8 @@ github.com/hugolify/lawyerify-theme v1.4.6 h1:HcrsPQvLqWWBzDEs9kqTs8ALAM1wEFXic2
 github.com/hugolify/lawyerify-theme v1.4.6/go.mod h1:EaSRakmaToQkaj3vYzXv9qutsNcnfxXUjyMYCX4uRHk=
 github.com/midzer/tobii v3.1.0+incompatible h1:4eV2tjsk0NFYRtbufY16dZzaBBHPgl6Wvsc3ryydHnw=
 github.com/midzer/tobii v3.1.0+incompatible/go.mod h1:ByXFkVm8ja2+TXT7L+lfkdEIeHW4IdWdsQO8zJ5mEqA=
+github.com/midzer/tobii v3.1.2+incompatible h1:BKduZmyYeVjew2L3ElicWRNI7+QgN0h2Fa4WQmSwYPs=
+github.com/midzer/tobii v3.1.2+incompatible/go.mod h1:ByXFkVm8ja2+TXT7L+lfkdEIeHW4IdWdsQO8zJ5mEqA=
 github.com/orestbida/cookieconsent v3.1.0+incompatible h1:L2uj16SEL1bICkn6pJde9uc1qAPmTcEiFZO93zZKdQI=
 github.com/orestbida/cookieconsent v3.1.0+incompatible/go.mod h1:8N46VI/40AwvzASJDpiwfbu6zylSzKSDZRUVNmVXLxw=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=

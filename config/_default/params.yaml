@@ -40,6 +40,9 @@ persons:
     _merge: deep
     desktop: '75x75'
 
+# Map
+tile: 3
+
 # Admin
 admin:
   cms: netlifycms

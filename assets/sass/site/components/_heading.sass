@@ -1,10 +1,12 @@
 .heading
     @include margin-bottom($global-spacing)
-    align-items: center
+    align-items: center !important
     flex-direction: column
     position: relative
     text-align: center
     text-wrap: balance
+    > .container
+        align-items: center !important
 
     &::after  
         @include margin-top($global-spacing)

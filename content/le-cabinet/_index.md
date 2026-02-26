@@ -10,30 +10,27 @@ blocks:
     text: >-
       Tous formés aux côtés de pénalistes de renom et animés d’une passion
       commune pour la défense, Joseph Hazan, Margot Pugliese et Sophie
-      Rey-Gascon, ont souhaité fonder une structure qui se consacre
-      quotidiennement à tous les domaines du droit pénal : 
+      Rey-Gascon, ont fondé une structure qui se consacre exclusivement à la
+      défense des personnes physiques, et des personnes morales, en matière
+      pénale.   
 
 
-      * droit pénal général
-
-      * droit pénal des affaires
-
-      * droit pénal fiscal
-
-      * droit pénal international
-
-      * droit pénal de l’environnement
-
-      * droit de la presse.
+       
 
 
-      Ils interviennent à tous les stades de la procédure pour assister mis en cause et victimes : en garde-à-vue, au cours de l’instruction, devant le Tribunal correctionnel et la Cour d’assises.
+      Ils interviennent sur tout le territoire métropolitain et en outre-mer, à tous les stades de la procédure, pour assister mis en cause et victimes : en garde-à-vue, au cours de l’instruction, devant les juridictions correctionnelles – le tribunal correctionnel - et criminelles – la cour d’assises et les cours criminelles départementales.
 
 
-      Le cabinet intervient également dans le cadre de l’exécution et de l’aménagement de la peine et se consacre à la défense des droits des détenus ; à ce titre, les avocats du cabinet saisissent régulièrement le Contrôleur général des lieux de privation de liberté et le Défenseur des droits.
+       
 
 
-      Forts de leur connaissance aiguë de la pratique judiciaire, les avocats du cabinet mettent au service de leurs clients leur expertise commune, et leur assurent une disponibilité totale ainsi qu’une grande réactivité dans le suivi de leurs dossiers.
+      Le cabinet intervient également dans le cadre de l’exécution et de l’aménagement de la peine.
+
+
+       
+
+
+      Forts de leur parfaite connaissance la procédure pénale et de la pratique judiciaire, les avocats du cabinet mettent au service de leurs clients leur expertise commune, et leur assurent toute disponibilité, réactivité, ainsi qu’un suivi régulier et précis de leurs dossiers.
     title: « Le 52 » est un cabinet exclusivement dédié à la défense pénale.
     image:
       src: /images/uploads/cabinet-illustration.jpg

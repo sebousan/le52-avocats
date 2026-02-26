@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2024-07-03T14:17:28.600Z
 publications_persons:
   - margot-pugliese

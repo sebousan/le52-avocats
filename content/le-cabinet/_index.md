@@ -8,19 +8,23 @@ blocks:
       blank: false
     background: false
     text: >-
-      Tous formés aux côtés de pénalistes de renom et animés d’une passion commune pour la défense, Morgane Le Hir, Joseph Hazan, Sophie Rey-Gascon et Margot Pugliese, ont souhaité fonder une structure qui se consacre quotidiennement à tous les domaines du droit pénal : 
-      
-      - droit pénal général
-      
-      - droit pénal des affaires
-      
-      - droit pénal fiscal
-      
-      - droit pénal international
-      
-      - droit pénal de l’environnement
-     
-      - droit de la presse.
+      Tous formés aux côtés de pénalistes de renom et animés d’une passion
+      commune pour la défense, Joseph Hazan, Margot Pugliese et Sophie
+      Rey-Gascon, ont souhaité fonder une structure qui se consacre
+      quotidiennement à tous les domaines du droit pénal : 
+
+
+      * droit pénal général
+
+      * droit pénal des affaires
+
+      * droit pénal fiscal
+
+      * droit pénal international
+
+      * droit pénal de l’environnement
+
+      * droit de la presse.
 
 
       Ils interviennent à tous les stades de la procédure pour assister mis en cause et victimes : en garde-à-vue, au cours de l’instruction, devant le Tribunal correctionnel et la Cour d’assises.

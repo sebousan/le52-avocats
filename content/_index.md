@@ -12,22 +12,10 @@ blocks:
       défense des personnes physiques en matière pénale.   
 
 
-       
-
-
       Ils interviennent sur tout le territoire métropolitain et en outre-mer, à tous les stades de la procédure, pour assister mis en cause et victimes : en garde-à-vue, au cours de l’instruction, devant les juridictions correctionnelles – le tribunal correctionnel - et criminelles – la cour d’assises et les cours criminelles départementales.
 
 
-       
-
-
       Le cabinet intervient également dans le cadre de l’exécution et de l’aménagement de la peine.
-
-
-       
-
-
-      Forts de leur parfaite connaissance la procédure pénale et de la pratique judiciaire, les avocats du cabinet mettent au service de leurs clients leur expertise commune, et leur assurent toute disponibilité, réactivité, ainsi qu’un suivi régulier et précis de leurs dossiers.
     image:
       src: /images/uploads/le52-associes.jpg
   - type: editorial

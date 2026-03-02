@@ -39,6 +39,9 @@ persons:
   publications_persons:
     _merge: deep
     desktop: '75x75'
+  authors:
+    _merge: deep
+    desktop: '75x75'
 
 # Map
 tile: 1

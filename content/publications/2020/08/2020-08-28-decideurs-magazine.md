@@ -5,7 +5,6 @@ date: 2020-08-28T13:13:33+00:00
 publications_persons:
   - joseph-hazan
   - margot-pugliese
-  - morgane-le-hir
   - sophie-rey-gascon
 press:
   title: Décideurs Magazine

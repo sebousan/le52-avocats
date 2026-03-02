@@ -32,7 +32,6 @@ blocks:
     background: false
     items:
       - joseph-hazan
-      - morgane-le-hir
       - margot-pugliese
       - sophie-rey-gascon
     heading:

@@ -32,7 +32,10 @@ blocks:
       src: /images/uploads/le52-associes.jpg
   - type: editorial
     direction: ltr
-    text: ""
+    text: Forts de leur parfaite connaissance la procédure pénale et de la pratique
+      judiciaire, les avocats du cabinet mettent au service de leurs clients
+      leur expertise commune, et leur assurent toute disponibilité, réactivité,
+      ainsi qu’un suivi régulier et précis de leurs dossiers.
     image:
       src: /images/uploads/cabinet-illustration.jpg
   - type: selected-persons

@@ -32,16 +32,7 @@ blocks:
       src: /images/uploads/le52-associes.jpg
   - type: editorial
     direction: ltr
-    text: >-
-      Ils interviennent à tous les stades de la procédure pour assister mis en
-      cause et victimes : en garde-à-vue, au cours de l’instruction, devant le
-      Tribunal correctionnel et la Cour d’assises.
-
-
-      Le cabinet intervient également dans le cadre de l’exécution et de l’aménagement de la peine et se consacre à la défense des droits des détenus ; à ce titre, les avocats du cabinet saisissent régulièrement le Contrôleur général des lieux de privation de liberté et le Défenseur des droits.
-
-
-      Forts de leur connaissance aiguë de la pratique judiciaire, les avocats du cabinet mettent au service de leurs clients leur expertise commune, et leur assurent une disponibilité totale ainsi qu’une grande réactivité dans le suivi de leurs dossiers.
+    text: ""
     image:
       src: /images/uploads/cabinet-illustration.jpg
   - type: selected-persons

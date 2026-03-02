@@ -7,22 +7,27 @@ blocks:
     title: « Le 52 » est un cabinet exclusivement dédié à la défense pénale.
     text: >-
       Tous formés aux côtés de pénalistes de renom et animés d’une passion
-      commune pour la défense, Joseph Hazan, Sophie Rey-Gascon et Margot
-      Pugliese, ont souhaité fonder une structure qui se consacre
-      quotidiennement à tous les domaines du droit pénal : 
+      commune pour la défense, Joseph Hazan, Margot Pugliese et Sophie
+      Rey-Gascon, ont fondé une structure qui se consacre exclusivement à la
+      défense des personnes physiques en matière pénale.   
 
 
-      * droit pénal général
+       
 
-      * droit pénal des affaires
 
-      * droit pénal fiscal
+      Ils interviennent sur tout le territoire métropolitain et en outre-mer, à tous les stades de la procédure, pour assister mis en cause et victimes : en garde-à-vue, au cours de l’instruction, devant les juridictions correctionnelles – le tribunal correctionnel - et criminelles – la cour d’assises et les cours criminelles départementales.
 
-      * droit pénal international
 
-      * droit pénal de l’environnement
+       
 
-      * droit de la presse.
+
+      Le cabinet intervient également dans le cadre de l’exécution et de l’aménagement de la peine.
+
+
+       
+
+
+      Forts de leur parfaite connaissance la procédure pénale et de la pratique judiciaire, les avocats du cabinet mettent au service de leurs clients leur expertise commune, et leur assurent toute disponibilité, réactivité, ainsi qu’un suivi régulier et précis de leurs dossiers.
     image:
       src: /images/uploads/le52-associes.jpg
   - type: editorial

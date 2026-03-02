@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "a",
+      "abbr",
       "article",
       "aside",
       "b",

@@ -23,7 +23,7 @@ En droit pénal commun, Margot Pugliese a notamment défendu des accusés dans l
 
  
 
-En droit pénal des affaires, elle assiste des dirigeants, ou des salariés, mis en cause pour des infractions relevant du droit pénal du travail, des infractions involontaires, du blanchiment, des escroqueries, abus de confiance ou de biens sociaux, etc.   
+En droit pénal des affaires, elle assiste des dirigeants, ou des salariés, mis en cause pour des infractions relevant du droit pénal du travail, des infractions involontaires, du blanchiment, des escroqueries, abus de confiance ou de biens sociaux, etc.
 
  
 
@@ -31,24 +31,18 @@ Margot Pugliese intervient dès la garde-à-vue, puis tout au long de la procéd
 
  
 
-*Parcours :*
-
- 
+### Parcours :
 
 Diplômée de l’Université Paris 1 Panthéon-Sorbonne et de l’Ecole de Droit de Sciences Po Paris, Margot Pugliese est avocate au Barreau de Paris depuis 2013.
 
-
+ 
 
 En parallèle de de son cursus académique, elle a effectué plusieurs stages au sein de grands cabinets français et anglo-saxons (Gide – Ashurt – White and Case), puis elle a travaillé pendant cinq ans, en qualité de collaboratrice, aux côtés d’Emmanuel Daoud, au sein du cabinet VIGO, en droit pénal général et en droit pénal des affaires.
 
-
+ 
 
 En 2016, Margot Pugliese est élue Première Secrétaire de la Conférence.
 
  
 
 Elle rédige régulièrement des articles pour des revues juridiques spécialisées en matière pénale – notamment pour la revue l’AJ Pénale aux éditions Dalloz.
-
- 
-
-Voir ses publications :

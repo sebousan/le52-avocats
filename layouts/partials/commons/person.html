@@ -1,0 +1,73 @@
+{{- $person :=  partial "func/GetRealPerson.html" .person | default false -}}
+{{- $section := .person.Type | default false -}}
+{{- $show_status := .show_status | default true -}}
+{{- $show_contacts := .show_contacts | default false -}}
+{{- $show_description := .show_description | default true -}}
+{{- $show_image := .show_image | default true -}}
+{{- $show_btn := .show_btn | default true -}}
+
+{{- with $person -}}
+  {{- $type := .Type -}}
+  <aside class="person">
+    <div class="content">
+      {{- if $show_status -}}
+        {{- $persons_statutes := "persons/persons_statutes.html" -}}
+        {{- if templates.Exists (printf "partials/%s" $persons_statutes) -}}
+          {{- partial $persons_statutes . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- with .Title -}}
+        {{- $title := cond (eq $type "persons") (.) (. | humanize) -}}
+        <p class="name"><a href="{{ $person.Permalink }}">{{ partial "func/PrepareHTML.html" $title }}</a></p>
+      {{- end -}}
+      {{- if $show_description -}}
+        {{ with .Description }}
+          <p class="description">{{ partial "func/TruncateContent.html" (dict "content" .) }}</p>
+        {{ end }}
+      {{- end -}}
+      {{- if $show_contacts -}}
+        {{ with .Params.contact }}
+          {{ partial "commons/contact/contacts.html" . }}
+        {{ end }}
+      {{- end -}}
+      {{- if $show_btn -}}
+        {{- $title := i18n (printf "%s.discover" $section) -}}
+        <p><a href="{{ .Permalink }}" class="more" title="{{ $title | safeHTMLAttr}}">{{ i18n "more" }}</a></p>
+      {{- end -}}
+    </div>
+    {{- if $show_image -}}
+      {{ with .Params.image}}
+        {{- $desktop := site.Params.persons.thumbnail.desktop -}}
+        {{- $mobile := site.Params.persons.thumbnail.mobile -}}
+        {{ with (index site.Params.persons $section) }}
+          {{- $desktop = .desktop -}}
+          {{- $mobile = .mobile -}}
+        {{ end }}
+        {{- $ratio := "--bs-aspect-ratio: 100%;" -}}
+        {{- $style := printf "style='%s'" $ratio -}}
+        {{- if $desktop -}}
+          {{- $w := float (index (split $desktop "x") 0 | default 100) -}}
+          {{- $y := float (index (split $desktop "x") 1 | default 100) -}}
+          {{- $value := string (mul (div $y $w) 100) -}}
+          {{- $ratio = printf "--bs-aspect-ratio: %s%s;" $value "%" -}}
+          {{- $media := printf "--card-media: %spx;" (string $w) -}}
+          {{ if $mobile }}
+            {{- $w := float (index (split $mobile "x") 0 | default 100) -}}
+            {{- $media = printf "%s --card-media-mobile: %spx;" $media (string $w) -}}
+          {{ end }}
+          {{- $style = printf "style='%s %s'" $ratio $media -}}
+        {{- end -}}
+        
+        <div class="media" {{ safeHTMLAttr $style }}>
+          {{ partial "commons/image.html" (dict
+            "src" .src
+            "alt" .alt
+            "desktop" $desktop
+            "mobile" $mobile
+            "crop" "top"
+          ) }}
+        </div>
+      {{ end }}
+    {{- end }}
+  </aside>
+{{- end -}}

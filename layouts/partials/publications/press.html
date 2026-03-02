@@ -1,0 +1,25 @@
+{{- $text := i18n "publications.press.more" -}}
+{{- $title := i18n "link.blank_aria" (dict "Title" $text) -}}
+{{- $context := . -}}
+
+{{- with .Params.press }}
+  <div class="press">
+    <div class="content">
+      {{- with .title }}
+      <h3 class="name">{{ partial "func/PrepareHTML.html" . }}</h3>
+      {{- end }}
+      {{ partial "publications/metas.html" $context }}
+      {{- with .url }}
+      <a href="{{ . | safeURL }}" class="btn" target="_blank" rel="noopener noreferrer" title="{{ $title }}">{{ $text }}</a>
+      {{- end }}
+      {{- with .file }}
+      {{- $dir := cond (strings.Contains . "/") (path.Dir .) "pdf" }}
+      <a href="{{ . | safeURL }}" class="btn" target="_blank" rel="noopener noreferrer" title="{{ $title }}">
+        {{- $text }} — {{ partial "func/GetStaticFileSize" (dict "file" . "dir" $dir) }} (PDF)
+      </a>
+      {{- end }}
+    </div>
+  </div>
+{{ else }}
+  {{ partial "publications/metas" . }}
+{{ end -}}

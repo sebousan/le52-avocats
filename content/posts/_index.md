@@ -1,4 +1,4 @@
 ---
 isIndex: true
-title: Actualités
+title: Articles
 ---

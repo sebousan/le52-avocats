@@ -1,0 +1,6 @@
+<div class="sidebar" {{- partial "func/SetAnim.html" (dict "element" "sidebar") }}>
+  {{- $authors := "posts/authors.html" }}
+  {{- if templates.Exists ( printf "partials/%s" $authors ) }}
+    {{- partial $authors . }}
+  {{- end }}
+</div>

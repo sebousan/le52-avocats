@@ -1,7 +1,15 @@
 _merge: deep
+section:
+  persons: /equipe/
+  posts: /articles/
+  publications: /actualites/
 page:
   persons: /equipe/:slug/
+  posts: /articles/:year-:month-:day-:slug/
   publications: /actualites/:year-:month-:day-:slug/
+taxonomy:
+  authors: /articles/auteurs/
 term:
   persons_statutes: /equipe/:slug/
+  authors: /articles/:slug/
   publications_persons: /actualites/:slug/

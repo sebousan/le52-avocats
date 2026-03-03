@@ -5,5 +5,8 @@ links:
     url: /equipe/
   - title: Actualités
     url: /actualites/
+  - blank: false
+    title: Publications
+    url: /articles/
   - title: Contact
     url: /contact/

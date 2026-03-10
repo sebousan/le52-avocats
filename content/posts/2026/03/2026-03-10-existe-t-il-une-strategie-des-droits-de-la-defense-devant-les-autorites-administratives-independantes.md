@@ -19,6 +19,7 @@ description: "Après la présentation générale des pouvoirs d'enquête des
   fier à cette première impression : c'est un terrain sur lequel les droits de
   la défense doivent d'autant plus s'affirmer !"
 press:
-  url: Dalloz - AJ Pénal 2015 p.126
+  url: ""
   file: /pdf/Document-20260226-041153.pdf
+  title: Dalloz - AJ Pénal 2015 p.126
 ---
